@@ -11,75 +11,53 @@ Furthermore, users can register and log in. Here, users can share their desired 
 <br>
 
 <br>
-# Figure 1: Sign Up Page (The first page that opens) in project.
+### Figure 1: Sign Up Page (The first page that opens) in project.
 <br><br>
-
 
 ![image](https://github.com/user-attachments/assets/98811b51-31b6-4a21-bda2-be45d5ed4a8d)
 <br>
 
 <br>
-
-Figure 2: User has not logged in or registered.
+### Figure 2: User has not logged in or registered.
 <br><br>
 
 <img width="416" alt="3" src="https://github.com/user-attachments/assets/c253360c-89dc-4dc9-9f88-104e481ba7f3">
 <br>
 
 <br>
-
-Figure 3: Sign Up Page.
-
+### Figure 3: Sign Up Page.
 <br><br>
 
 <img width="446" alt="4" src="https://github.com/user-attachments/assets/515b5949-44e1-4b4f-88ac-b22e0ec89630">
-
 <br>
 
 <br>
-
-Figure 4: Login Page.
-
+### Figure 4: Login Page.
 <br><br>
 
 <img width="858" alt="5" src="https://github.com/user-attachments/assets/33d151e4-3f95-4ef6-99cd-00438d0e596f">
 <br>
 
 <br>
-
-Figure 5: Profile Page.
-
+### Figure 5: Profile Page.
 <br><br>
 
 <img width="389" alt="6" src="https://github.com/user-attachments/assets/aa605345-c287-4ebe-b094-c308d6b79051">
 <br>
 
 <br>
-
-Figure 6: Fruit and Vegetable Application, Display Platform for Recognition with Data.
-
+### Figure 6: Fruit and Vegetable Application, Display Platform for Recognition with Data.
 <br><br>
+
 <img width="438" alt="7" src="https://github.com/user-attachments/assets/6e7ee0ed-76a9-4257-bd4d-3e52f04e7e16">
-
 <br>
 
 <br>
-
-Figure 7: Blog, where users can write about fruits and comment on the platform.
-
+### Figure 7: Blog, where users can write about fruits and comment on the platform.
 <br><br>
+
 <img width="281" alt="8" src="https://github.com/user-attachments/assets/f8a597d5-b690-4a63-8043-6157277aebd6">
-
 <br>
 
 <br>
-
-Figure 8: About the Platform and Project Implementation.
-
-
-
-
-
-
-
-
+### Figure 8: About the Platform and Project Implementation.
