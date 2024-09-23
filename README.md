@@ -74,9 +74,8 @@ Furthermore, users can register and log in. Here, users can share their desired 
 <img src="https://github.com/user-attachments/assets/9b8017e6-752a-4d3a-bf56-22bf1ceb0129" width="70" height="70" alt="download"> &nbsp; &nbsp;
 <img src="https://github.com/user-attachments/assets/a53d779d-65e7-4752-ba58-61bba28947e0" width="70" height="70" alt="download"> &nbsp; &nbsp;
 <img src="https://github.com/user-attachments/assets/2296d705-347b-4bd2-adac-1db552f74d70" width="70" height="70" alt="download"> &nbsp; &nbsp;
-<img src="https://github.com/user-attachments/assets/f88a5a20-9047-4ebe-8d25-571dc407a758" width="70" height="70" alt="cnn"> &nbsp; &nbsp;
 <img src="https://github.com/user-attachments/assets/0a05cff7-a4dd-44f3-b5f5-13633b933a34" width="70" height="70" alt="Pillow Logo">  &nbsp; &nbsp;
-<img src="https://github.com/user-attachments/assets/e67b67ae-2be1-4da3-8fb1-fad0941bb131" width="70" height="70" alt="Image"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50" alt="Flask Icon">
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="70" height="70" alt="Heroku Icon">  &nbsp; &nbsp;
 
 
