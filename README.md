@@ -71,7 +71,7 @@ Furthermore, users can register and log in. Here, users can share their desired 
 <img src="https://github.com/user-attachments/assets/7afd6646-6213-4c89-9282-5ec2ec02f660" width="50" height="50" alt="Visual Studio Code"> &nbsp; &nbsp;
 <img src="https://github.com/user-attachments/assets/e917908d-2a0e-4627-8077-2112c2edce72" width="70" height="70" alt="download"> &nbsp; &nbsp;
 <img src="https://github.com/user-attachments/assets/b09a7eff-88f7-4797-9135-710b240497d1" width="70" height="70" alt="download"> &nbsp; &nbsp;
-<img src="https://github.com/user-attachments/assets/9b8017e6-752a-4d3a-bf56-22bf1ceb0129" width="70" height="70" alt="download"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/9b8017e6-752a-4d3a-bf56-22bf1ceb0129" width="75" height="75" alt="download"> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase Icon">
 <img src="https://github.com/user-attachments/assets/2296d705-347b-4bd2-adac-1db552f74d70" width="70" height="70" alt="download"> &nbsp; &nbsp;
 <img src="https://github.com/user-attachments/assets/0a05cff7-a4dd-44f3-b5f5-13633b933a34" width="70" height="70" alt="Pillow Logo">  &nbsp; &nbsp;
