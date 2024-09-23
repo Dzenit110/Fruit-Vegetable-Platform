@@ -3,7 +3,7 @@
 This project is related to fruit and vegetable classification. It is a simple web application that any user can utilize. Users need to upload an image of any fruit or vegetable. Our system will automatically classify the image and provide a prediction about its name. Additionally, we have added a module that provides information about the fruits and vegetables. Our project recognizes the fruit or vegetable in the image using image processing and calculates its calories through the module.
 <br>
 
-Furthermore, users can register and log in. Here, users can share their desired text and discuss fruit and vegetable calories with other users, as there is a small blog available. Later, users can delete or edit their posts as desired. Additionally, in the "About Us" section, users can get information about the project. This is a web application, so users can run it directly in any browser. The project is intended to be hosted on cloud systems, and all requests are implemented using the Python programming language.
+Furthermore, users can register and log in. Here, users can share their desired text and discuss fruit and vegetable calories with other users, as there is a small blog available. Later, users can delete or edit their posts as desired. Additionally, in the "About Us" section, users can get information about the project. This is a web application, so users can run it directly in any browser. The project is intended to be hosted on cloud systems, and all requests are implemented using the Python programming language (Deep Learning).
 
 <br><br>
 
@@ -61,3 +61,28 @@ Furthermore, users can register and log in. Here, users can share their desired 
     <br>
     Figure 8: About the Platform and Project Implementation.
 </div>
+<br><br>
+
+🧰 Languages & Tools <br><br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"> &nbsp; &nbsp;
+ 
+<img src="https://github.com/user-attachments/assets/7afd6646-6213-4c89-9282-5ec2ec02f660" width="50" height="50" alt="Visual Studio Code"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/e917908d-2a0e-4627-8077-2112c2edce72" width="50" height="50" alt="download"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/b09a7eff-88f7-4797-9135-710b240497d1" width="50" height="50" alt="download"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/9b8017e6-752a-4d3a-bf56-22bf1ceb0129" width="50" height="50" alt="download"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/a53d779d-65e7-4752-ba58-61bba28947e0" width="50" height="50" alt="download"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/2296d705-347b-4bd2-adac-1db552f74d70" width="50" height="50" alt="download"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/f88a5a20-9047-4ebe-8d25-571dc407a758" width="50" height="50" alt="cnn"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/0a05cff7-a4dd-44f3-b5f5-13633b933a34" width="50" height="50" alt="Pillow Logo">  &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/e67b67ae-2be1-4da3-8fb1-fad0941bb131" width="50" height="50" alt="Image"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="50" height="50" alt="Heroku Icon">  &nbsp; &nbsp;
+
+
+
+
+
+
+
+
