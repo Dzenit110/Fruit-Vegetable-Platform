@@ -52,12 +52,13 @@ Furthermore, users can register and log in. Here, users can share their desired 
 <div align="center">
     <img width="438" alt="7" src="https://github.com/user-attachments/assets/6e7ee0ed-76a9-4257-bd4d-3e52f04e7e16">
     <br>
+
     Figure 7: Blog, where users can write about fruits and comment on the platform.
 </div>
 <br>
 
 <div align="center">
-    <img width="281" alt="8" src="https://github.com/user-attachments/assets/f8a597d5-b690-4a63-8043-6157277aebd6">
+    <img width="265" alt="77" src="https://github.com/user-attachments/assets/558e75be-a2bb-4540-ad93-fd655a6c94e5">
     <br>
     Figure 8: About the Platform and Project Implementation.
 </div>
