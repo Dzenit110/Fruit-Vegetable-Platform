@@ -11,7 +11,7 @@ Furthermore, users can register and log in. Here, users can share their desired 
 <br>
 
 <br>
-Figure 1: Sign Up Page (The first page that opens) in project.
+# Figure 1: Sign Up Page (The first page that opens) in project.
 <br><br>
 
 
