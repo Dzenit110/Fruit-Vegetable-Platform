@@ -10,7 +10,7 @@ Furthermore, users can register and log in. Here, users can share their desired 
 <img width="818" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e78cad96-b3e9-468f-9eec-43a1edcaa812">
 <br>
 
-
+<br>
 Figure 1: Sign Up Page (The first page that opens) in project.
 <br><br>
 
@@ -18,6 +18,7 @@ Figure 1: Sign Up Page (The first page that opens) in project.
 ![image](https://github.com/user-attachments/assets/98811b51-31b6-4a21-bda2-be45d5ed4a8d)
 <br>
 
+<br>
 
 Figure 2: User has not logged in or registered.
 <br><br>
@@ -25,6 +26,7 @@ Figure 2: User has not logged in or registered.
 <img width="416" alt="3" src="https://github.com/user-attachments/assets/c253360c-89dc-4dc9-9f88-104e481ba7f3">
 <br>
 
+<br>
 
 Figure 3: Sign Up Page.
 
@@ -34,6 +36,7 @@ Figure 3: Sign Up Page.
 
 <br>
 
+<br>
 
 Figure 4: Login Page.
 
@@ -42,6 +45,7 @@ Figure 4: Login Page.
 <img width="858" alt="5" src="https://github.com/user-attachments/assets/33d151e4-3f95-4ef6-99cd-00438d0e596f">
 <br>
 
+<br>
 
 Figure 5: Profile Page.
 
@@ -50,6 +54,7 @@ Figure 5: Profile Page.
 <img width="389" alt="6" src="https://github.com/user-attachments/assets/aa605345-c287-4ebe-b094-c308d6b79051">
 <br>
 
+<br>
 
 Figure 6: Fruit and Vegetable Application, Display Platform for Recognition with Data.
 
@@ -58,6 +63,7 @@ Figure 6: Fruit and Vegetable Application, Display Platform for Recognition with
 
 <br>
 
+<br>
 
 Figure 7: Blog, where users can write about fruits and comment on the platform.
 
@@ -66,6 +72,7 @@ Figure 7: Blog, where users can write about fruits and comment on the platform.
 
 <br>
 
+<br>
 
 Figure 8: About the Platform and Project Implementation.
 
