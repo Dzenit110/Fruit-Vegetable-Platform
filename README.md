@@ -52,7 +52,6 @@ Furthermore, users can register and log in. Here, users can share their desired 
 <div align="center">
     <img width="438" alt="7" src="https://github.com/user-attachments/assets/6e7ee0ed-76a9-4257-bd4d-3e52f04e7e16">
     <br>
-
     Figure 7: Blog, where users can write about fruits and comment on the platform.
 </div>
 <br>
