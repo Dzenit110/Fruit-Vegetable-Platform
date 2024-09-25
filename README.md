@@ -1,4 +1,4 @@
-# Fruit🍍 - Vegetable🍅 Recognition Application
+# Fruit🍍 - Vegetable 🍅 Recognition Application
 <br><br>
 This project is related to fruit and vegetable classification. It is a simple web application that any user can utilize. Users need to upload an image of any fruit or vegetable. Our system will automatically classify the image and provide a prediction about its name. Additionally, we have added a module that provides information about the fruits and vegetables. Our project recognizes the fruit or vegetable in the image using image processing and calculates its calories through the module.
 <br>
