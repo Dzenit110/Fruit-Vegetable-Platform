@@ -3,7 +3,7 @@
 This project is related to fruit and vegetable classification. It is a simple web application that any user can utilize. Users need to upload an image of any fruit or vegetable. Our system will automatically classify the image and provide a prediction about its name. Additionally, we have added a module that provides information about the fruits and vegetables. Our project recognizes the fruit or vegetable in the image using image processing and calculates its calories through the module.
 <br>
 
-Furthermore, users can register and log in. Here, users can share their desired text and discuss fruit and vegetable calories with other users, as there is a small blog available. Later, users can delete or edit their posts as desired. Additionally, in the "About Us" section, users can get information about the project. This is a web application, so users can run it directly in any browser. The project is intended to be hosted on cloud systems, and all requests are implemented using the Python programming language (Deep Learning).
+Furthermore, users can register and log in. Here, users can share their desired text and discuss fruit and vegetable calories with other users, as there is a small blog available. Later, users can delete or edit their posts as desired. Additionally, in the "About Us" section, users can get information about the project. This is a web application, so users can run it directly in any browser. The project is intended to be hosted on cloud systems, and all requests are implemented using the Python programming language (Deep Learning)..
 
 <br><br>
 
